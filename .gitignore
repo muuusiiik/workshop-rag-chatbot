@@ -1,0 +1,9 @@
+*__pycache__/
+*models/
+*data/
+*index/
+*logs/
+*.env
+*.swp
+*.swo
+*.ipynb
