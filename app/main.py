@@ -73,6 +73,8 @@ def home():
 
 @app.get('/index')
 def index():
+    """ it is your homework to finish it
+    """
     pass
 
 
