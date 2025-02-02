@@ -1,9 +1,11 @@
 *__pycache__/
+_env/
 .ipynb_checkpoints/
 *models/
 *data/
 *index/
 *logs/
+*Untitled*
 *.env
 *.swp
 *.swo
